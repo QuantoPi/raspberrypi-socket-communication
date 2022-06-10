@@ -1,4 +1,4 @@
-# raspberrypi-socket-communication
+# Raspberrypi socket communication with local server
 
 Libraries and frameworks used:
 Express
